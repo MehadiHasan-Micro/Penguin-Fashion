@@ -1,0 +1,9 @@
+button .button{
+    border-radius: 20px;
+    background-color: royalblue;
+    color: white;
+}
+.text{
+    justify-items: center;
+    align-items: center;
+}
