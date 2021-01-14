@@ -1,9 +1,9 @@
-button .button{
-    border-radius: 20px;
-    background-color: royalblue;
-    color: white;
-}
 .text{
-    justify-items: center;
-    align-items: center;
+    margin-top: 12%;
+}
+.button{
+    color: white;
+    background-color: seagreen;
+    margin-left: 4px;
+    margin-right: 4px;
 }
